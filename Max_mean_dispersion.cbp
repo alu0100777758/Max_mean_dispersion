@@ -44,9 +44,13 @@
 		<Unit filename="include/Node_basic.h" />
 		<Unit filename="include/RandomGreedy.h" />
 		<Unit filename="include/Solution.h" />
+		<Unit filename="include/SymmetricGraph_Loader.h" />
 		<Unit filename="include/Symmetric_connected_graph.h" />
 		<Unit filename="include/node.h" />
 		<Unit filename="include/vertice.h" />
+		<Unit filename="inputFiles/max-mean-div-10.txt" />
+		<Unit filename="inputFiles/max-mean-div-15.txt" />
+		<Unit filename="inputFiles/max-mean-div-20.txt" />
 		<Unit filename="main.cpp">
 			<Option target="Release" />
 		</Unit>
@@ -57,6 +61,7 @@
 		<Unit filename="src/Node_basic.cpp" />
 		<Unit filename="src/RandomGreedy.cpp" />
 		<Unit filename="src/Solution.cpp" />
+		<Unit filename="src/SymmetricGraph_Loader.cpp" />
 		<Unit filename="src/Symmetric_connected_graph.cpp" />
 		<Unit filename="src/vertice.cpp" />
 		<Unit filename="test.cpp">

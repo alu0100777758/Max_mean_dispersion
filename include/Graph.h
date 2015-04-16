@@ -9,6 +9,8 @@ class Graph
     public:
         Graph();
         virtual ~Graph();
+        void addNode(node nodo);
+        void addVertice(vertice vert);
         std::vector<node> getNodes();
         std::vector<vertice> getVertices();
     protected:

@@ -5,7 +5,7 @@
 1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Graph.cpp
 	"Graph.h"
 
-1429184818 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Graph.h
+1429189040 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Graph.h
 	<vector>
 	"node.h"
 	"vertice.h"
@@ -44,7 +44,7 @@
 1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Symmetric_connected_graph.cpp
 	"Symmetric_connected_graph.h"
 
-1429187169 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Symmetric_connected_graph.h
+1429188532 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Symmetric_connected_graph.h
 	<Graph.h>
 	"Node_basic.h"
 	"vertice.h"
@@ -172,4 +172,11 @@
 	<string>
 	<vector>
 	<assert.h>
+
+1429187986 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/SymmetricGraph_Loader.cpp
+	"SymmetricGraph_Loader.h"
+
+1429188836 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/SymmetricGraph_Loader.h
+	<fstream>
+	"Symmetric_connected_graph.h"
 
