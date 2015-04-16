@@ -180,3 +180,179 @@
 	<fstream>
 	"Symmetric_connected_graph.h"
 
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\grasp_fw.cpp
+	"GRASP_fw.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\grasp_fw.h
+
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\greedy_fw.cpp
+	"Greedy_fw.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\greedy_fw.h
+
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\localsearch_fw.cpp
+	"LocalSearch_fw.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\localsearch_fw.h
+
+1429226366 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\node_basic.cpp
+	"Node_basic.h"
+	<iostream>
+
+1429227506 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\node_basic.h
+	<node.h>
+
+1429226581 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\node.h
+
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\randomgreedy.cpp
+	"RandomGreedy.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\randomgreedy.h
+	<Greedy_fw.h>
+
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\solution.cpp
+	"Solution.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\solution.h
+
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\symmetric_connected_graph.cpp
+	"Symmetric_connected_graph.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\symmetric_connected_graph.h
+	<Graph.h>
+	"Node_basic.h"
+	"vertice.h"
+
+1429226252 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\graph.h
+	<vector>
+	"Node_basic.h"
+	"vertice.h"
+
+1429227706 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\vertice.h
+	"node.h"
+
+1429199510 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\symmetricgraph_loader.cpp
+	"SymmetricGraph_Loader.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\symmetricgraph_loader.h
+	<fstream>
+	"Symmetric_connected_graph.h"
+
+1429227706 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\vertice.cpp
+	"vertice.h"
+
+1429228206 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\test.cpp
+	"Catch.h"
+	"Symmetric_connected_graph.h"
+
+1429199510 c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\include\catch.h
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<assert.h>
+
+1429228263 source:c:\users\eldon\documents\etsii\ingenieriainformaticaetsii-ull\3º\clases\daa\max_mean_dispersion\src\graph.cpp
+	"Graph.h"
+

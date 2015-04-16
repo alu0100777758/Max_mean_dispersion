@@ -28,3 +28,13 @@ int vertice::getCost()
 {
     return _cost;
 }
+bool vertice::equals(vertice other)
+{
+    return (((getStart() == other.getStart()) && (getEnd() == other.getEnd()))&& getCost() == other.getCost()) ;
+}
+bool operator== (vertice vertice1, vertice vertice2){
+    return vertice1.equals(vertice2);
+}
+bool operator!= (vertice vertice1, vertice vertice2){
+    return !(vertice1 == vertice2);
+}

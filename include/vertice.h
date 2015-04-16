@@ -11,6 +11,9 @@ class vertice
         node* getStart();
         node* getEnd();
         int  getCost();
+        friend bool operator== (vertice vertice1, vertice vertice2);
+        friend bool operator!= (vertice vertice1, vertice vertice2);
+        virtual bool equals(vertice vertice1);
     protected:
     private:
     node*   _start;
