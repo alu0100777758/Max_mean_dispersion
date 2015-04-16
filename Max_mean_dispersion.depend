@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1429185222 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/main.cpp
+	<iostream>
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Graph.cpp
+	"Graph.h"
+
+1429184818 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Graph.h
+	<vector>
+	"node.h"
+	"vertice.h"
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/GRASP_fw.cpp
+	"GRASP_fw.h"
+
+1429183447 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/GRASP_fw.h
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Greedy_fw.cpp
+	"Greedy_fw.h"
+
+1429183447 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Greedy_fw.h
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/LocalSearch_fw.cpp
+	"LocalSearch_fw.h"
+
+1429183447 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/LocalSearch_fw.h
+
+1429183680 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/node.cpp
+	"node.h"
+
+1429185814 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/node.h
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/RandomGreedy.cpp
+	"RandomGreedy.h"
+
+1429183447 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/RandomGreedy.h
+	<Greedy_fw.h>
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Solution.cpp
+	"Solution.h"
+
+1429183447 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Solution.h
+
+1429183447 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Symmetric_connected_graph.cpp
+	"Symmetric_connected_graph.h"
+
+1429187169 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Symmetric_connected_graph.h
+	<Graph.h>
+	"Node_basic.h"
+	"vertice.h"
+
+1429185492 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/vertice.cpp
+	"vertice.h"
+
+1429184336 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/vertice.h
+	"node.h"
+
+1429185744 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/src/Node_basic.cpp
+	"Node_basic.h"
+
+1429184870 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Node_basic.h
+	<node.h>
+
+1429187272 source:/home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/test.cpp
+	"Catch.h"
+	"Symmetric_connected_graph.h"
+
+1429185462 /home/alu4550/datos/homes.rala/ingInformatica/DAA/Max_mean_dispersion/include/Catch.h
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<string>
+	<cstddef>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<tuple>
+	<type_traits>
+	<string>
+	<string>
+	<string>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<string>
+	<set>
+	<string>
+	<string>
+	<vector>
+	<iostream>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<signal.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<iostream>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<map>
+	<map>
+	<iostream>
+	<cstring>
+	<sstream>
+	<string>
+	<vector>
+	<assert.h>
+

@@ -34,21 +34,34 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Catch.h">
+			<Option target="Debug" />
+		</Unit>
 		<Unit filename="include/GRASP_fw.h" />
 		<Unit filename="include/Graph.h" />
 		<Unit filename="include/Greedy_fw.h" />
 		<Unit filename="include/LocalSearch_fw.h" />
+		<Unit filename="include/Node_basic.h" />
 		<Unit filename="include/RandomGreedy.h" />
 		<Unit filename="include/Solution.h" />
 		<Unit filename="include/Symmetric_connected_graph.h" />
-		<Unit filename="main.cpp" />
+		<Unit filename="include/node.h" />
+		<Unit filename="include/vertice.h" />
+		<Unit filename="main.cpp">
+			<Option target="Release" />
+		</Unit>
 		<Unit filename="src/GRASP_fw.cpp" />
 		<Unit filename="src/Graph.cpp" />
 		<Unit filename="src/Greedy_fw.cpp" />
 		<Unit filename="src/LocalSearch_fw.cpp" />
+		<Unit filename="src/Node_basic.cpp" />
 		<Unit filename="src/RandomGreedy.cpp" />
 		<Unit filename="src/Solution.cpp" />
 		<Unit filename="src/Symmetric_connected_graph.cpp" />
+		<Unit filename="src/vertice.cpp" />
+		<Unit filename="test.cpp">
+			<Option target="Debug" />
+		</Unit>
 		<Extensions>
 			<envvars />
 			<code_completion />

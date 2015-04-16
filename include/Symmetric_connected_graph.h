@@ -2,7 +2,8 @@
 #define SYMMETRIC_CONNECTED_GRAPH_H
 
 #include <Graph.h>
-
+#include "Node_basic.h"
+#include "vertice.h"
 
 class Symmetric_connected_graph : public Graph
 {
